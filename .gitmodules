@@ -1,0 +1,12 @@
+[submodule "modular-applications"]
+	path = modular-applications
+	url = git@github.com:Gergi3/modular-applications.git
+[submodule "client-side-rendering"]
+	path = client-side-rendering
+	url = git@github.com:Gergi3/client-side-rendering.git
+[submodule "architecture-and-testing"]
+	path = architecture-and-testing
+	url = git@github.com:Gergi3/architecture-and-testing.git
+[submodule "remote-data-and-authentication"]
+	path = remote-data-and-authentication
+	url = git@github.com:Gergi3/remote-data-and-authentication.git
